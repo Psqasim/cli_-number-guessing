@@ -24,3 +24,4 @@ console.log("You Are Right You Guess Right Number.");
 else{
     console.log("No You Guess wrong");
 }
+console.log("THANKS FOR PLAYING!");
