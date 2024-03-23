@@ -18,3 +18,4 @@ if (answers.userGuessNumber === randomNumber) {
 else {
     console.log("No You Guess wrong");
 }
+console.log("THANKS FOR PLAYING!");
